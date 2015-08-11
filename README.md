@@ -17,6 +17,10 @@ Fork your own copy and then send me a pull request once you've added your folder
 7. Copy JeffMacDonald Folder, it's our template
 8. Change folders name to your name, no spaces!
 9. Make small or large changes using a text editor, I recommend [Atom](http://atom.io/ "Atom")  (Try changing the colors of the background in the CSS2 file)
-10. Commit those changes in GitHub App
-11. Go to Github.com add create a pull request with the main branch
+10. Commit those changes in GitHub App  
+![](img/changes.jpg)
+11. Sync Changes to Github  
+![](img/sync.jpg)
+11. Go to Github.com add create a pull request with the main branch  
+![](img/pullrequest.jpg)
 12. I’ll accept your pull request and merge our code your site will be live!
