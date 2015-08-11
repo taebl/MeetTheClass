@@ -12,7 +12,8 @@ Fork your own copy and then send me a pull request once you've added your folder
 4. Open the [MeetTheClass Repository](https://github.com/VCUBrandcenter/MeetTheClass)
 2. Fork it to your account!!!  
 ![](img/fork.jpg)  
-6. Clone to your desktop
+6. Clone to your desktop  
+![](img/clone.jpg)
 7. Copy JeffMacDonald Folder, it's our template
 8. Change folders name to your name, no spaces!
 9. Make small or large changes using a text editor, I recommend [Atom](http://atom.io/ "Atom")  (Try changing the colors of the background in the CSS2 file)
