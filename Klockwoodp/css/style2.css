@@ -66,7 +66,7 @@ border-radius: 50%;
 
 img {
     display: inline;
-    margin: 0 0 0 -55px;
-    height: 100%;
+    margin: 0 0 0 0;
+    height: 130%;
     width: auto;
 }
