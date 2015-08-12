@@ -24,3 +24,10 @@ Fork your own copy and then send me a pull request once you've added your folder
 11. Go to Github.com add create a pull request with the main branch  
 ![](img/pullrequest.jpg)
 12. I’ll accept your pull request and merge our code your site will be live!
+
+
+# To Do List
+- Add Second Years
+- Add Professors
+- Add The Lab
+- Add Tools
